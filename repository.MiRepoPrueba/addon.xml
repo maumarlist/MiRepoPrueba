@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.MiRepoPrueba" name="Repo Josh" version="1.1.0" provider-name="RepoJosh">
+	<extension point="xbmc.addon.repository" name="Repo Josh">
+		<info compressed="false">https://raw.githubusercontent.com/maumarlist/MiRepoPrueba/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/maumarlist/MiRepoPrueba/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/maumarlist/MiRepoPrueba/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>MauMarList official Repo</summary>
+   		<description lang="en">Instala LiveTv.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
